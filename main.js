@@ -109,7 +109,7 @@ app.whenReady().then(() => {
           label: 'Learn More',
           click: async () => {
             const { shell } = require('electron')
-            await shell.openExternal('https://electronjs.org')
+            await shell.openExternal('https://github.com/thedawie/BasicAssTextbox')
           }
         }
       ]

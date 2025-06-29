@@ -15,6 +15,8 @@ Thumbs.db
 /dist
 /build
 /out
+BasicAssTextbox-darwin-arm64/
+BasicAssTextbox-darwin-x64/
 
 # Electron
 *.asar
