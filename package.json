@@ -1,0 +1,19 @@
+{
+  "name": "remove-text-formatting",
+  "version": "1.0.0",
+  "description": "A simple Electron app to remove text formatting.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "mark.js": "^8.11.1"
+  }
+}
