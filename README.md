@@ -2,6 +2,10 @@
 
 A simple Electron app to remove text formatting from copied text.
 
+## Screenshot
+
+![Screenshot of BasicAssTextbox](images/screenshot.png)
+
 ## Features
 - Paste text and remove formatting instantly
 - Native menu bar support
